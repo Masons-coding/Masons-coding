@@ -44,7 +44,7 @@ Languages/frameworks I know:
     <img alt="Python" src="https://img.shields.io/badge/Python-1572B6?logo=python&logoColor=white&style=for-the-badge" />
 </p>
 
-- 📫 How to reach me:
+📫 How to reach me:
 
 Email: Maclarkegdci@gmail.com 
 LinkedIn: https://www.linkedin.com/in/mason-clarke/
