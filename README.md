@@ -15,7 +15,7 @@ product for users. I am very excited to
 keep enhancing my skills so that I can
 express my passion and show my
 knowledge to the world by bringing
-ideas to life
+ideas to life.
 <!--
 **Masons-coding/Masons-coding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -41,7 +41,7 @@ Languages/frameworks I know:
   <img alt="Knex.JS" src="https://img.shields.io/badge/Knex.JS-E34F26?logo=&logoColor=white&style=for-the-badge" />
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-1572B6?logo=mysql&logoColor=white&style=for-the-badge" />
   <img alt="NPM" src="https://img.shields.io/badge/NPM-E34F26?logo=npm&logoColor=white&style=for-the-badge" />
-    <img alt="Python" src="https://img.shields.io/badge/Python-1572B6?logo=python&logoColor=white&style=for-the-badge" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-1572B6?logo=python&logoColor=white&style=for-the-badge" />
 </p>
 
 📫 How to reach me:
