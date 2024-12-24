@@ -42,13 +42,13 @@ Languages/frameworks I know:
   <img alt="Express.JS" src="https://img.shields.io/badge/Express JS-1572B6?&logoColor=white&style=for-the-badge" />
   <img alt="Node.JS" src="https://img.shields.io/badge/Node JS-E34F26?&logoColor=white&style=for-the-badge" />
   <img alt='Knex.JS' src='https://img.shields.io/badge/KNEX_JS-100000?style=for-the-badge&logo=&logoColor=white&labelColor=1572B6&color=1572B6'/>
-  <img alt='RestAPI' src='https://img.shields.io/badge/REST_API-100000?style=for-the-badge&logo=&logoColor=white&labelColor=1572B6&color=1572B6'/>
   <img alt='AWS' src='https://img.shields.io/badge/AWS-100000?style=for-the-badge&logo=&logoColor=white&labelColor=E34F26&color=E34F26'/>
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-1572B6?&logoColor=white&style=for-the-badge" />
+  <img alt='RestAPI' src='https://img.shields.io/badge/REST_API-100000?style=for-the-badge&logo=&logoColor=white&labelColor=1572B6&color=1572B6'/>
   <img alt='MongoDB' src='https://img.shields.io/badge/Mongo_db-100000?style=for-the-badge&logo=&logoColor=white&labelColor=E34F26&color=E34F26'/>
-  <img alt='CyberDuck' src='https://img.shields.io/badge/cyberduck-100000?style=for-the-badge&logo=&logoColor=white&labelColor=1572B6&color=1572B6'/>
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-1572B6?&logoColor=white&style=for-the-badge" />
   <img alt='SalesForce' src='https://img.shields.io/badge/salesforce-100000?style=for-the-badge&logo=&logoColor=white&labelColor=E34F26&color=E34F26'/>
-  <img alt='Jira' src='https://img.shields.io/badge/jira-100000?style=for-the-badge&logo=&logoColor=white&labelColor=1572B6&color=1572B6'/>
+  <img alt='CyberDuck' src='https://img.shields.io/badge/cyberduck-100000?style=for-the-badge&logo=&logoColor=white&labelColor=1572B6&color=1572B6'/>
+  <img alt='Jira' src='https://img.shields.io/badge/jira-100000?style=for-the-badge&logo=&logoColor=white&labelColor=E34F26&color=E34F26'/>
 </p>
 
 📫 How to reach me:
