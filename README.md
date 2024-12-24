@@ -31,17 +31,24 @@ Here are some ideas to get you started:
 
 Languages/frameworks I know:
 <p>
-  <img alt="React" src="https://img.shields.io/badge/React-1572B6?logo=react&logoColor=white&style=for-the-badge" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-E34F26?logo=javascript&logoColor=white&style=for-the-badge" />
-  <img alt="HTML" src="https://img.shields.io/badge/HTML-1572B6?logo=html5&logoColor=white&style=for-the-badge" />
-  <img alt="Css" src="https://img.shields.io/badge/CSS-E34F26?logo=css3&logoColor=white&style=for-the-badge" />
-  <img alt="Sass" src="https://img.shields.io/badge/SCSS-1572B6?logo=sass&logoColor=white&style=for-the-badge" />
-  <img alt="Node.JS" src="https://img.shields.io/badge/Node.JS-E34F26?logo=node.js&logoColor=white&style=for-the-badge" />
-  <img alt="Express.JS" src="https://img.shields.io/badge/Express.JS-1572B6?logo=express&logoColor=white&style=for-the-badge" />
-  <img alt="Knex.JS" src="https://img.shields.io/badge/Knex.JS-E34F26?logo=&logoColor=white&style=for-the-badge" />
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-1572B6?logo=mysql&logoColor=white&style=for-the-badge" />
-  <img alt="NPM" src="https://img.shields.io/badge/NPM-E34F26?logo=npm&logoColor=white&style=for-the-badge" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-1572B6?logo=python&logoColor=white&style=for-the-badge" />
+  <img alt="HTML" src="https://img.shields.io/badge/HTML-1572B6?&logoColor=white&style=for-the-badge" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-E34F26?t&logoColor=white&style=for-the-badge" />
+  <img alt="SCSS" src="https://img.shields.io/badge/SCSS-1572B6?&logoColor=white&style=for-the-badge" />
+  <img alt="CSS" src="https://img.shields.io/badge/CSS-E34F26?&logoColor=white&style=for-the-badge" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-1572B6?&logoColor=white&style=for-the-badge" />
+  <img alt='SQL' src='https://img.shields.io/badge/SQL-100000?style=for-the-badge&logo=&logoColor=white&labelColor=E34F26&color=E34F26'/>
+  <img alt="React" src="https://img.shields.io/badge/React-1572B6?&logoColor=white&style=for-the-badge" />
+  <img alt="NPM" src="https://img.shields.io/badge/NPM-E34F26?&logoColor=white&style=for-the-badge" />
+  <img alt="Express.JS" src="https://img.shields.io/badge/Express JS-1572B6?&logoColor=white&style=for-the-badge" />
+  <img alt="Node.JS" src="https://img.shields.io/badge/Node JS-E34F26?&logoColor=white&style=for-the-badge" />
+  <img alt='Knex.JS' src='https://img.shields.io/badge/KNEX_JS-100000?style=for-the-badge&logo=&logoColor=white&labelColor=1572B6&color=1572B6'/>
+  <img alt='RestAPI' src='https://img.shields.io/badge/REST_API-100000?style=for-the-badge&logo=&logoColor=white&labelColor=1572B6&color=1572B6'/>
+  <img alt='AWS' src='https://img.shields.io/badge/AWS-100000?style=for-the-badge&logo=&logoColor=white&labelColor=E34F26&color=E34F26'/>
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-1572B6?&logoColor=white&style=for-the-badge" />
+  <img alt='MongoDB' src='https://img.shields.io/badge/Mongo_db-100000?style=for-the-badge&logo=&logoColor=white&labelColor=E34F26&color=E34F26'/>
+  <img alt='CyberDuck' src='https://img.shields.io/badge/cyberduck-100000?style=for-the-badge&logo=&logoColor=white&labelColor=1572B6&color=1572B6'/>
+  <img alt='SalesForce' src='https://img.shields.io/badge/salesforce-100000?style=for-the-badge&logo=&logoColor=white&labelColor=E34F26&color=E34F26'/>
+  <img alt='Jira' src='https://img.shields.io/badge/jira-100000?style=for-the-badge&logo=&logoColor=white&labelColor=1572B6&color=1572B6'/>
 </p>
 
 📫 How to reach me:
