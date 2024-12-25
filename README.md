@@ -1,21 +1,5 @@
 ### Hi there my name is Mason Clarke 👋
-My passion for software development
-started when I realized that I could
-take what most would call
-“unreadable words” and use them to
-bring ideas to life on any screen for
-the user. I first started my journey
-with computer science back in
-highschool when I used an MIT app
-creator that allowed us to code online
-using building blocks. From there I
-quickly fell in love with using programming to
-create a functional and easy to use
-product for users. I am very excited to
-keep enhancing my skills so that I can
-express my passion and show my
-knowledge to the world by bringing
-ideas to life.
+My passion for software development began when I discovered the power of transforming what many might see as "unreadable code" into dynamic, user-friendly applications that bring ideas to life on any screen. My journey into computer science started in high school, where I used MIT’s App Inventor to create programs online with a block-based coding interface. This experience sparked my fascination with building functional, intuitive products that provide real value to users. I am eager to continue honing my skills, channeling my passion, and showcasing my knowledge by creating innovative solutions that bring concepts to life.
 <!--
 **Masons-coding/Masons-coding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
