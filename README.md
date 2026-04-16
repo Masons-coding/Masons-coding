@@ -33,6 +33,9 @@ Languages/frameworks I know:
   <img alt='SalesForce' src='https://img.shields.io/badge/salesforce-100000?style=for-the-badge&logo=&logoColor=white&labelColor=E34F26&color=E34F26'/>
   <img alt='CyberDuck' src='https://img.shields.io/badge/cyberduck-100000?style=for-the-badge&logo=&logoColor=white&labelColor=1572B6&color=1572B6'/>
   <img alt='Jira' src='https://img.shields.io/badge/jira-100000?style=for-the-badge&logo=&logoColor=white&labelColor=E34F26&color=E34F26'/>
+  <img alt='Docker' src='https://img.shields.io/badge/cyberduck-100000?style=for-the-badge&logo=&logoColor=white&labelColor=1572B6&color=1572B6'/>
+  <img alt='Splunk' src='https://img.shields.io/badge/jira-100000?style=for-the-badge&logo=&logoColor=white&labelColor=E34F26&color=E34F26'/>
+  <img alt='Grafana' src='https://img.shields.io/badge/jira-100000?style=for-the-badge&logo=&logoColor=white&labelColor=E34F26&color=E34F26'/>
 </p>
 
 📫 How to reach me:
