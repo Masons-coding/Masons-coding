@@ -35,7 +35,7 @@ Languages/frameworks I know:
   <img alt='Jira' src='https://img.shields.io/badge/jira-100000?style=for-the-badge&logo=&logoColor=white&labelColor=E34F26&color=E34F26'/>
   <img alt='Docker' src='https://img.shields.io/badge/Docker-100000?style=for-the-badge&logo=&logoColor=white&labelColor=1572B6&color=1572B6'/>
   <img alt='Splunk' src='https://img.shields.io/badge/Splunk-100000?style=for-the-badge&logo=&logoColor=white&labelColor=E34F26&color=E34F26'/>
-  <img alt='Grafana' src='https://img.shields.io/badge/Grafana-100000?style=for-the-badge&logo=&logoColor=white&labelColor=E34F26&color=E34F26'/>
+  <img alt='Grafana' src='https://img.shields.io/badge/Grafana-100000?style=for-the-badge&logo=&logoColor=white&labelColor=1572B6&color=1572B6'/>
 </p>
 
 📫 How to reach me:
